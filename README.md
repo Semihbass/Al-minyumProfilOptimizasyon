@@ -1,2 +1,2 @@
-# Al-minyumProfilOptimizasyon
+# AluminyumProfilOptimizasyon
 desktop uygulaması
