@@ -1,0 +1,2 @@
+# Al-minyumProfilOptimizasyon
+desktop uygulaması
